@@ -33,7 +33,7 @@ def banner():
             G = '\033[32;1m'
             R = '\033[31;1m'
             print (f"""{logo}
- """)
+ 
             print (f"""\n{R} - {W}1{G} ~{W} Save In File .\n{R} - {W}2 {G}~ {W}Send To bot Telegram .\n{R} - {W}3 {G}~ {W}Skip .\n""")
 
 banner()
